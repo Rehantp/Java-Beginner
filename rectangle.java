@@ -1,5 +1,10 @@
 import java.util.Scanner;
 
+/*
+  Write	 a	C++	program	to	input	the	length	and	the	width	of	a	
+  rectangle	and	calculate	and	print	the	perimeter.
+*/
+
 public class rectangle {
 
     public static void main(String[] args) {
