@@ -3,11 +3,10 @@
    Expected Output
    Value of the day : 4
    Day of the week : Thursday
-   Good Bye!
+   Good Bye!   
    
 You must use “switch – case” statement.
 Display “Invalid Day” when some invalid value is provided.
-
 */
 import java.util.Scanner;
 
